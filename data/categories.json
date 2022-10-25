@@ -1,0 +1,14 @@
+[
+  {
+    "id": "01",
+    "name": "Basic Courses"
+  },
+  {
+    "id": "02",
+    "name": "Advanced Courses"
+  },
+  {
+    "id": "03",
+    "name": "Intermediate Courses"
+  }
+]
