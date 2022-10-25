@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1",
+    "cname": "Basic JavaScript For Beginners"
+  },
+  {
+    "_id": "2",
+    "cname": "Basic Python For Beginners"
+  },
+  { "_id": "3", "cname": "C++ For Competitive Programming" },
+  { "_id": "4", "cname": "Machine Learning " },
+  {
+    "_id": "5",
+    "cname": "Advanced Computer Programming in Python and JavaScript"
+  },
+  {
+    "_id": "6",
+    "cname": "Microsoft Excel - Advanced Excel Formulas & Functions"
+  }
+]
