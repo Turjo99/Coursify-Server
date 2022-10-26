@@ -1,39 +1,67 @@
 [
   {
+    "id": "01",
     "_id": "1",
     "cname": "Basic JavaScript For Beginners",
     "img": "https://images.unsplash.com/photo-1576936422505-18d321d54d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae tempora eius eum vero placeat molestiae id culpa recusandae cum? Ipsa labore voluptas facere. Provident numquam voluptas nesciunt nam minima laboriosam. Inventore dolorum odit blanditiis magnam odio iure nobis harum excepturi necessitatibus accusantium, illum hic, amet sed laborum aut! Eos?"
+    "description": "You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course fas",
+    "price": "25",
+    "rating": "4.5",
+    "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   },
   {
+    "id": "01",
     "_id": "2",
     "cname": "Basic Python For Beginners",
     "img": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
-    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae tempora eius eum vero placeat molestiae id culpa recusandae cum? Ipsa labore voluptas facere. Provident numquam voluptas nesciunt nam minima laboriosam. Inventore dolorum odit blanditiis magnam odio iure nobis harum excepturi necessitatibus accusantium, illum hic, amet sed laborum aut! Eos?"
+    "description": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more?If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you!Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!This course will cover all the basics and several advanced concepts of Python. We’ll go over:",
+    "price": "25",
+    "rating": "4.5",
+    "requirements": "Macintosh (OSX)/ Windows(Vista and higher) Machine Internet Connection"
   },
   {
+    "id": "02",
     "_id": "3",
     "cname": "C++ For Competitive Programming",
     "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/907884/retina_1708x683_cover-0816-C__Mistakes-Waldek_Newsletter-8ca5fb6eacb673aaad1fe4bfaf4ce205-2f26062f759e8698edd8c5d77b82b992.png",
-    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae tempora eius eum vero placeat molestiae id culpa recusandae cum? Ipsa labore voluptas facere. Provident numquam voluptas nesciunt nam minima laboriosam. Inventore dolorum odit blanditiis magnam odio iure nobis harum excepturi necessitatibus accusantium, illum hic, amet sed laborum aut! Eos?"
+    "description": "Which programming language is often seen as a badge of honor among software developers?  C++Which programming language can you learn that when added to your resume,  will often get you a job interview?  C++ Which programming language is routinely ranked in the top 5 programming languages by popularity, and been consistently in the top 10 for close to 20 years?  C++Why you should learn C++Much, if not most of the software written today is still written in C++ and this has been the case for many, many years. Not only is C++ popular, but it is also a very relevant language. If you go to GitHub you will see that there are a huge number of active C++ repositories and C++ is also extremely active on stack overflow.There are many, many leading software titles written entirely or partly in C++. These include the Windows, Linux, and Mac OSX operating systems!Many of the Adobe products such as Photoshop and Illustrator,  the MySQL and MongoDB database engines, and many many more are written in C++.  Leading tech companies use C++ for many of their products and internal research and development. These include Amazon, Apple, Microsoft, PayPal, Google, Facebook, Oracle, and many more.",
+    "price": "25",
+
+    "rating": "4.5",
+    "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   },
   {
+    "id": "02",
     "_id": "4",
     "cname": "Machine Learning ",
     "img": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
-    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae tempora eius eum vero placeat molestiae id culpa recusandae cum? Ipsa labore voluptas facere. Provident numquam voluptas nesciunt nam minima laboriosam. Inventore dolorum odit blanditiis magnam odio iure nobis harum excepturi necessitatibus accusantium, illum hic, amet sed laborum aut! Eos?"
+    "description": "Interested in the field of Machine Learning? Then this course is for you.This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.u.We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.u.This course is fun and exciting, but at the same time, we dive deep into Machine Learning. It is structured the following way:u.Part 1 - Data Preprocessingu.Part 2 - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regressionu.Part 3 - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classificationu.Part 4 - Clustering: K-Means, Hierarchical Clusteringu.Part 5 - Association Rule Learning: Apriori, Eclatu.Part 6 - Reinforcement Learning: Upper Confidence Bound, Thompson Samplingu.Part 7 - Natural Language Processing: Bag-of-words model and algorithms for NLPu.Part 8 - Deep Learning: Artificial Neural Networks, Convolutional Neural Networksu.Part 9 - Dimensionality Reduction: PCA, LDA, Kernel PCAu.Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoostu.Moreover, the course is packed with practical exercises that are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.u.And as a bonus, this course includes both Python and R code templates which you can download and use on your own projects.",
+    "price": "25",
+
+    "rating": "4.5",
+    "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   },
   {
+    "id": "03",
     "_id": "5",
     "cname": "Data Structure & Algorithm",
     "img": "https://www.devopsschool.com/blog/wp-content/uploads/2021/06/Complete-Tutorials-of-Introduction-to-Algorithm.png",
-    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae tempora eius eum vero placeat molestiae id culpa recusandae cum? Ipsa labore voluptas facere. Provident numquam voluptas nesciunt nam minima laboriosam. Inventore dolorum odit blanditiis magnam odio iure nobis harum excepturi necessitatibus accusantium, illum hic, amet sed laborum aut! Eos?"
+    "description": "Want to land a job at a great tech company like Google, Microsoft, Facebook, Netflix, Amazon, or other companies but you are intimidated by the interview process and the coding questions? Do you find yourself feeling like you get . every time you get asked a coding question? This course is your answer. Using the strategies, lessons, and exercises in this course, you will learn how to land offers from all sorts of companies. Many developers who are feel that one of the main disadvantages they face compared to college educated graduates in computer science is the fact that they don't have knowledge about algorithms, data structures and the notorious Big-O Notation. Get on the same level as someone with computer science degree by learning the fundamental building blocks of computer science which will give you a big boost during interviews. You will also get access to our private online chat community with thousands of developers online to help you get through the course.",
+    "price": "25",
+
+    "rating": "4.5",
+    "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   },
   {
+    "id": "03",
     "_id": "6",
     "cname": "Microsoft Excel - Advanced Excel Formulas & Functions",
 
     "img": "https://images.ctfassets.net/lzny33ho1g45/excel-online-guide-p-img/b800bd34c077003197f95b1bac3b2a73/file.png?w=1520&fm=jpg&q=30&fit=thumb&h=760",
-    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione vitae tempora eius eum vero placeat molestiae id culpa recusandae cum? Ipsa labore voluptas facere. Provident numquam voluptas nesciunt nam minima laboriosam. Inventore dolorum odit blanditiis magnam odio iure nobis harum excepturi necessitatibus accusantium, illum hic, amet sed laborum aut! Eos?"
+    "description": "Enroll now to go through a deep dive of the most popular spreadsheet tool on the market, Microsoft Excel. As a Microsoft Certified Trainer I will use my 20+ years of Excel training to guide you step by step through the beginner to advanced level and beyond. As you participate in each of the 4 courses you will master Excel tools that will clear away the pain of stumbling through your daily tasks. You will start with the basics, building a solid foundation that will give you further knowledge as you progress into intermediate and advanced level topics.At completion of this course you will have mastered the most popular Excel tools and come out with confidence to complete any Excel tasks with efficiency and grace",
+    "price": "25",
+
+    "rating": "4.5",
+    "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   }
 ]
