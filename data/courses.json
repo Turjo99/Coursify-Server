@@ -10,7 +10,7 @@
     "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   },
   {
-    "id": "01",
+    "id": "02",
     "_id": "2",
     "cname": "Basic Python For Beginners",
     "img": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
@@ -20,7 +20,7 @@
     "requirements": "Macintosh (OSX)/ Windows(Vista and higher) Machine Internet Connection"
   },
   {
-    "id": "02",
+    "id": "03",
     "_id": "3",
     "cname": "C++ For Competitive Programming",
     "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/907884/retina_1708x683_cover-0816-C__Mistakes-Waldek_Newsletter-8ca5fb6eacb673aaad1fe4bfaf4ce205-2f26062f759e8698edd8c5d77b82b992.png",
@@ -31,7 +31,7 @@
     "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   },
   {
-    "id": "02",
+    "id": "04",
     "_id": "4",
     "cname": "Machine Learning ",
     "img": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
@@ -53,7 +53,7 @@
     "requirements": "** Macintosh (OSX)/ Windows(Vista and higher) ** Machine Internet Connection"
   },
   {
-    "id": "03",
+    "id": "05",
     "_id": "6",
     "cname": "Microsoft Excel - Advanced Excel Formulas & Functions",
 

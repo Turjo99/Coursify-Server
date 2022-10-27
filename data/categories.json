@@ -1,14 +1,27 @@
 [
   {
     "id": "01",
-    "name": "Basic Courses"
+    "name": "JavaScript"
   },
   {
     "id": "02",
-    "name": "Advanced Courses"
+    "name": "Python"
   },
   {
     "id": "03",
-    "name": "Intermediate Courses"
+    "name": "C++"
+  },
+  {
+    "id": "04",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "05",
+    "name": "MicroSoft Excel"
+  },
+
+  {
+    "id": "06",
+    "name": "All Course"
   }
 ]

@@ -18,11 +18,19 @@ app.get("/categories", (req, res) => {
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
+// if (categories.id === 0) {
+//   app.get("/courses", (req, res) => {
+//     res.send(courses);
+//   });
+// }
 app.get("/categories/:id", (req, res) => {
   const id = req.params.id;
-
-  const selectedCategory = courses.filter((n) => n.category_id === id);
-  res.send(selectedCategory);
+  if (id == "06") {
+    res.send(courses);
+  } else {
+    const selectedCategory = courses.filter((n) => n.id === id);
+    res.send(selectedCategory);
+  }
 });
 app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
